@@ -14,3 +14,7 @@ python3 main.py
 ```
 
 This writes the single-line entry to `/output/entry.txt` (under 200 characters).
+
+## Why this line works
+
+Every developer has said some version of "it works on my machine" — this one just upgrades the excuse into a punchline. The setup sounds like a victory lap (400 green tests), then the twist reframes production itself as the one test nobody ran, which is exactly the kind of self-owning developer excuse the brief asks for.
